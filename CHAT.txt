@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 Modelo de Cam ISSexy: Show de Sexo ao Vivo Grátis e Chat | Stripchat 
+https://edge-hls.doppiocdn.com/hls/152546016/master/152546016_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 Modelo de Cam Hotnessi: Show de Sexo ao Vivo Grátis e 
+https://b-hls-09.doppiocdn.com/hls/31546356/31546356.m3u8?playlistType=lowLatency
+#EXTINF:-12
+https://edge-hls.doppiocdn.com/hls/31546356/master/31546356_auto.m3u8?playlistType=lowLatency
+#EXTINF:-13
+https://edge-hls.doppiocdn.com/hls/151153607/master/151153607_auto.m3u8?playlistType=lowLatency
+#EXTINF:-14
+https://edge-hls.doppiocdn.com/hls/1438562/master/1438562_auto.m3u8?playlistType=lowLatency
+#EXTINF:-15
+https://edge-hls.doppiocdn.com/hls/49755869/master/49755869_auto.m3u8?playlistType=lowLatency
